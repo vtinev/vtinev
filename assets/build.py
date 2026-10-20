@@ -55,7 +55,7 @@ PROJECTS = [
 
 # Icons from skillicons.dev, in reading order. (id, tooltip)
 ICONS = [
-    ("ts", "TypeScript"), ("js", "JavaScript"), ("python", "Python"),
+    ("ts", "TypeScript"), ("js", "JavaScript"),
     ("react", "React"), ("nextjs", "Next.js"), ("tailwind", "Tailwind CSS"),
     ("sass", "Sass / SCSS"), ("nodejs", "Node.js"), ("fastapi", "FastAPI"),
     ("graphql", "GraphQL"), ("postgres", "PostgreSQL"), ("mongodb", "MongoDB"),

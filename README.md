@@ -51,7 +51,6 @@ I build web products end to end: interface, API, database and deployment. Lately
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" title="TypeScript" width="44" height="44"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="44" height="44"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" title="Python" width="44" height="44"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" width="44" height="44"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" title="Next.js" width="44" height="44"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44"></picture>
@@ -71,7 +70,7 @@ I build web products end to end: interface, API, database and deployment. Lately
 <!-- icons:end -->
 
 <p>
-<code>backend</code>&nbsp; Hono · Express · Drizzle · Better Auth · Strapi · Stripe · pgvector<br>
+<code>backend</code>&nbsp; Express · Better Auth · Strapi · Stripe · pgvector<br>
 <code>ai</code>&nbsp; LM Studio · Ollama · MCP · Vercel AI SDK<br>
 <code>observability</code>&nbsp; Splunk · Dynatrace<br>
 <code>testing & infra</code>&nbsp; Playwright · Caddy · Docker Compose
